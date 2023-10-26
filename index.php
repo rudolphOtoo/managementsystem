@@ -27,5 +27,11 @@
             <li><a href="" class="btn btn-success">Login</a></li>
         </ul>
     </nav>
+
+    <div class="section1">
+
+        <label class="img_text"> We Teach Students with care</label>
+        <img class="main_img" src="./project_Image/school_management.jpg">
+    </div>
 </body>
 </html>
